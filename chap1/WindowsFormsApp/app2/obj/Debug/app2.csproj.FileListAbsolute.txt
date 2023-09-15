@@ -1,0 +1,11 @@
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\bin\Debug\app2.exe.config
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\bin\Debug\app2.exe
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\bin\Debug\app2.pdb
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.csproj.AssemblyReference.cache
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.csproj.SuggestedBindingRedirects.cache
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.Form1.resources
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.Properties.Resources.resources
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.csproj.GenerateResource.cache
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.csproj.CoreCompileInputs.cache
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.exe
+D:\code\code_csharp\Windows 程序设计——基于.NET平台\chap1\WindowsFormsApp\app2\obj\Debug\app2.pdb
