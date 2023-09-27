@@ -1,0 +1,10 @@
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\bin\Debug\文件合并.exe.config
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\bin\Debug\文件合并.exe
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\bin\Debug\文件合并.pdb
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\obj\Debug\文件合并.csproj.AssemblyReference.cache
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\obj\Debug\文件合并.Form1.resources
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\obj\Debug\文件合并.Properties.Resources.resources
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\obj\Debug\文件合并.csproj.GenerateResource.cache
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\obj\Debug\文件合并.csproj.CoreCompileInputs.cache
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\obj\Debug\文件合并.exe
+D:\code\csharp\Windows原理与应用\chap2\chap2\文件合并\obj\Debug\文件合并.pdb

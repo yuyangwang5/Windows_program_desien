@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件合并", "文件合并\文件合并.csproj", "{D0BB1FE1-DC3E-4668-9CBF-952D3C3D1573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "汉字操作", "汉字操作\汉字操作.csproj", "{083B5040-6D2F-478D-B74C-6C5E8ADD70E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BB1FE1-DC3E-4668-9CBF-952D3C3D1573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BB1FE1-DC3E-4668-9CBF-952D3C3D1573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BB1FE1-DC3E-4668-9CBF-952D3C3D1573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BB1FE1-DC3E-4668-9CBF-952D3C3D1573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083B5040-6D2F-478D-B74C-6C5E8ADD70E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083B5040-6D2F-478D-B74C-6C5E8ADD70E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083B5040-6D2F-478D-B74C-6C5E8ADD70E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083B5040-6D2F-478D-B74C-6C5E8ADD70E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8D5974-90D3-42AA-8D9B-28EFB97B89C2}
+	EndGlobalSection
+EndGlobal
